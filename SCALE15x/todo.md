@@ -6,6 +6,7 @@
 
 ##Wired
 1. Add support for lag ports in config build script
+2. Install tftp server on nms host
 
 ##Services
 1. Build config for dhcp server
