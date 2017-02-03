@@ -5,7 +5,7 @@
 
 
 ##Wired
-1. Add support for lag ports in config build script
+1. Add support for lag ports in config build script(This is done just needs more testing)
 2. Install tftp server on nms host
 
 ##Services
