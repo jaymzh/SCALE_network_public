@@ -1,3 +1,27 @@
+##Default/upgrade openwrt
+1. Set laptop with a static IP of 192.168.1.2/24
+2. Start up a continuous ping to 192.168.1.1
+3. With the power off press and hold the reset button on the underside of router
+4. Keep hold reset button until pings look something like the below(this is on ubuntu 16.04 other OS may look alittle diffrent)
+<copy ping output here>
+5. Release the reset button after you see the above pings
+6. Run XXXXX to upload the firmware. As soon as the tftp transfer stops pings will stop too.
+7. The router will reboot and ask the network for a dhcp address. From here the router is ready to receive it's config.
+
+##Defaut hp switch
+###Hard Reset
+1. Using pointed objects, simultaneously press both the Reset and Clear buttons on the front of the switch. The power and fault lights come on.
+2. Continue to press the Clear button while releasing the Reset button.
+3. When the Self Test LED begins to blink, release the Clear button.
+4. The switch will then complete its self test and begin operating with its configuration restored to the factory default setting
+
+###With cli access
+1. erase startup-config
+##Upgrade firmware hp switch
+1. copy tftp flash 10.1.0.3 <file name> primary
+filename options
+model=filename
+
 ##To config APs
 1. Make sure that you have sqlite(apt-get install sqlite3 libsqlite3-dev)
 2. Download  APs.csv,  ap.sh and applyapconfig.sh
