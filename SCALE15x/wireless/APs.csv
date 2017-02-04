@@ -1,6 +1,6 @@
 Hostname,ip,power5g,freq5g,power2g,freq2g,mac,building
 room106ap1,10.1.0.75,4,36,5,1,06:A1:51:9D:60:F8,conf
-room106ap2,10.1.0.76,4,48,5,6,E2:46:9A:5A:C0:63,conf
+room106ap2,10.1.0.76,4,48,5,6,E2:46:9A:5A:C0:63,expo
 room106ap3,10.1.0.77,4,,5,11,,conf
 outsideroom106ap,10.1.0.78,4,,5,1,,conf
 room107ap1,10.1.0.79,4,,5,,,conf
