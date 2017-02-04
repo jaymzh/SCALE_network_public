@@ -494,6 +494,7 @@ Expo13,15,vendor_xxxx,,xxx
 Expo13,16,vendor_xxxx,,xxx
 Expo13,24,Uplink_to_xxx,"40,41,42,43,55,60,61,65,70,80,100-111",1
 testsw,1,3700ap,"40,41,42,43,60",1
-testsw,1,3800ap,"40,41,42,43,60",1
+testsw,2,3800ap,"40,41,42,43,60",1
 testsw,5,nms,,1
 testsw,6,zachlaptop,,1
+testsw,25,uplink,"40,41,42,43,55,60,61,65,70,80,100-111",1
