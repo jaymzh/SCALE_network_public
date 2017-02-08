@@ -1,12 +1,9 @@
 ##Wireless
-1. Build remote commmand scipt(This is done just needs more testing)
-2. Add passwords to config build script
-3. Enable advance wireless settings
-
+1. Add passwords to config build script
+2. Enable advance wireless settings
 
 ##Wired
 1. Add support for lag ports in config build script(This is done just needs more testing)
-2. Install tftp server on nms host
 
 ##Services
 1. Build config for dhcp server
