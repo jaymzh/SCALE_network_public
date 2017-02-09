@@ -3,9 +3,10 @@
 2. Start up a continuous ping to 192.168.1.1
 3. With the power off press and hold the reset button on the underside of router
 4. Keep hold reset button until pings look something like the below(this is on ubuntu 16.04 other OS may look alittle diffrent)
-<copy ping output here>
+Warning: time of day goes back (-3646444085811578108us), taking countermeasures.
+40 bytes from 192.168.1.1: icmp_seq=105 ttl=64
 5. Release the reset button after you see the above pings
-6. Run XXXXX to upload the firmware. As soon as the tftp transfer stops pings will stop too.
+6. Run "atftp --option "mode octet" --option "timeout  60" --verbose --trace -p -l openwrt-15.05.1-ar71xx-generic-wndr3800ch-squashfs-factory.img 192.168.1.1" to upload the firmware. As soon as the tftp transfer stops pings will stop too.
 7. The router will reboot and ask the network for a dhcp address. From here the router is ready to receive it's config.
 
 ##Defaut hp switch
