@@ -11,4 +11,5 @@
 
 ##Other
 1. burn iso to usb/cd for Xubuntu and pfsense.
-
+2. log scrapper for unique wireless devices
+3. log scrapper for unique all devices
