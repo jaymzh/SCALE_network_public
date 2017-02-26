@@ -1,122 +1,108 @@
-All Things Open,715,100
+All-Things-Open,715,100
 Anchore,326,101
 AREDN,719,102
 Balabit,713,103
 Beagleboard,427,104
-BigData LA,329,105
-Black Duck Software,718,106
+BigData-LA,329,105
+Black-Duck-Software,718,106
 Canonical,603,107
 Chef,405,108
-code by DellEMC,310,109
-Code For Americas,429,110
+Code-by-DellEMC,310,109
+Code-for-Americas,429,110
 CoreOS,500,111
-CoreOS,502,112
-CoreOS,504,113
-Couchbase,601,114
-Couchbase,700,115
-Datadog,301,116
-Datadog,400,117
-Debian,728,118
-DEIS,215,119
-Disney,611,120
-Disney,710,121
-DTK,315,122
-EFF,316,123
-Everbridge,317,124
-Facebook,501,125
-Facebook,600,126
-Fedora,305,127
-Flexera Software,714,128
-Fluentd,526,129
-FreeBSD,217,130
-FSF,302,131
-Funtoo,731,132
-Gentoo,707,133
-GNOME,503,134
-GNU Health,313,135
-"Gobot, CylonJS & Artoo",227,136
-Hackaday,426,137
-Hewlett Packard Enterprise,205,138
-ISSA,629,139
-ixSystems,211,140
-Javascript,628,141
-Jenkins,229,142
-JFrog,619,143
-KDE,515,144
-KidsOnComputers,528,145
-LibreOffice,431,146
-LinHes,203,147
-Linode,418,148
-Linux Academy,303,149
-Linux Astronomy,701,150
-Linux Foundation,517,151
-Linux New Media,717,152
-LinuxChix,416,153
-LOPSA,617,154
-LOT Network,430,155
-LPI,602,156
-MariaDB,612,157
-MediaTemple,201,158
-MediaTemple,300,159
-MySQL,414,160
-NATS.io,604,161
-Netapp,505,162
-NextCloud,328,163
-NGINX,627,164
-NoStarch,726,165
-OLPC,530,166
-OpenBSD,716,167
-OpenShift,311,168
-OpenShift,410,169
-OpenSource.com,529,170
-OpenSourceInitiative,415,171
-OpenSuse,513,172
-OpenX,304,173
-Opsgenie,401,174
-Opsgenie,403,175
-Oreilly,511,176
-OWASP,631,177
-Percona,219,178
-Perl Mongers,531,179
-Platform9,327,180
-PostgreSQL,514,181
-PostgreSQL,516,182
-Procore,703,183
-PSSC Labs,413,184
-QNAP,721,185
-R1Soft,419,186
-Rancher Labs,319,187
-Red Hat,412,188
-Resin.io,527,189
-SaltStack,428,190
-SauceLabs,704,191
-SFConservancy,616,192
-SGVLUG,702,193
-Silicon Mechanics,417,194
-SMCI,709,195
-Sparkpost,519,196
-StackIQ,518,197
-SteelHouse,312,198
-SteelHouse,314,199
-SUSE,411,200
-SUSE,510,201
-SWIFT,730,202
-Symantec,318,203
-System76,512,204
-TAOS,705,205
-Thinkpenguin,614,206
-Ubuntu,605,207
-Uncoded,723,208
-Uniregistry,626,209
-Unitas Global,610,210
-Usenix,613,211
-Verizon Digital Media Services,712,212
-VICIdial,615,213
-VictorOps,618,214
-WaveFront,213,215
-World Mentor Academy,711,216
-Yahoo,725,217
-Yahoo,727,218
-Yahoo,729,219
-YoctoProject,402,220
-Zabbix,404,221
+Couchbase,700,112
+Datadog,400,113
+Debian,728,114
+DEIS,215,115
+Disney,611,116
+DTK,315,117
+EFF,316,118
+Everbridge,317,119
+Facebook,600,120
+Fedora,305,121
+Flexera-Software,714,122
+Fluentd,526,123
+FreeBSD,217,124
+FSF,302,125
+Funtoo,731,126
+Gentoo,707,127
+GNOME,503,128
+GNU-Health,313,129
+Gobot-CylonJS-Artoo,227,130
+Hackaday,426,131
+Hewlett-Packard-Enterprise,205,132
+ISSA,629,133
+ixSystems,211,134
+Javascript,628,135
+Jenkins,229,136
+JFrog,619,137
+KDE,515,138
+KidsOnComputers,528,139
+LibreOffice,431,140
+LinHes,203,141
+Linode,418,142
+Linux-Academy,303,143
+Linux-Astronomy,701,144
+Linux-Foundation,517,145
+Linux-New-Media,717,146
+LinuxChix,416,147
+LOPSA,617,148
+LOT-Network,430,149
+LPI,602,150
+MariaDB,612,151
+MediaTemple,201,152
+MySQL,414,153
+NATS.io,604,154
+Netapp,505,155
+NextCloud,328,156
+NGINX,627,157
+NoStarch,726,158
+OLPC,530,159
+OpenBSD,716,160
+OpenShift,311,161
+OpenSource.com,529,162
+OpenSourceInitiative,415,163
+OpenSuse,513,164
+OpenX,304,165
+Opsgenie,401,166
+Oreilly,511,167
+OWASP,631,168
+Percona,219,169
+Perl Mongers,531,170
+Platform9,327,171
+PostgreSQL,514,172
+Procore,703,173
+PSSC-Labs,413,174
+QNAP,721,175
+R1Soft,419,176
+Rancher-Labs,319,177
+Red-Hat,412,178
+Resin.io,527,179
+SaltStack,428,180
+SauceLabs,704,181
+SFConservancy,616,182
+SGVLUG,702,183
+Silicon-Mechanics,417,184
+SMCI,709,185
+Sparkpost,519,186
+StackIQ,518,187
+SteelHouse,312,188
+SUSE,510,189
+SWIFT,730,190
+Symantec,318,191
+System76,512,192
+TAOS,705,193
+Thinkpenguin,614,194
+Ubuntu,605,195
+Uncoded,723,196
+Uniregistry,626,197
+Unitas-Global,610,198
+Usenix,613,199
+Verizon-Digital-Media-Services,712,200
+VICIdial,615,201
+VictorOps,618,202
+WaveFront,213,203
+World-Mentor-Academy,711,204
+Yahoo,725,205
+YoctoProject,402,206
+Zabbix,404,207
