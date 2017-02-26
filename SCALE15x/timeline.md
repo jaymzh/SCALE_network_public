@@ -1,22 +1,24 @@
 **Timeline:**
 - Monday Feb 27 8am-9:30am 
   1. Meet with with the PSAV person to understand layout and changes made to building wireing
-- Monday Feb 27 9:30am-11am   
-  1. Move tech hardware from storage to pcc
-- Monday Feb 27 11am-1pm Finalize the layout
+- Monday Feb 27 9:30am-11am Finalize the layout 
   1. Get count of number of APs that we have
   2. Finalize the layout of APs and switches
   3. Update CSV files for APs and Switchs with updated info
-- Monday Feb 27 1pm-3pm Get NOC online
+- Monday Feb 27 11am-2pm
+  1. Get truck
+  2. Move tech hardware from storage to pcc
+- Monday Feb 27 2pm-3:30pm Get NOC online
   1. Install pfsense
   2. Place router and make sure that it can ping out
   3. default/upgrade firmware on switches between internet connection and noc
   4. config all switches between internet connection and noc
-- Monday Feb 27 3pm-4:30pm Get core services online 
+- Monday Feb 27 3:30pm-4:30pm Get core services online 
   1. dns
   2. dhcp
-  2. NMS(This will be a computer that Zach is bring with it already running)
-  3. syslog
+  3. NMS(This will be a computer that Zach is bring with it already running)
+  4. syslog
+  5. Get NOC ap online
 - Monday Feb 27 4:30pm-6pm default/upgrade firmware/config rest of switches(non expo area)
 - Tueday Feb 28 8am-12pm place switches (non expo area)
   1. Place switch in location
