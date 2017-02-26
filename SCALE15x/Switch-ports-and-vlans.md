@@ -12,7 +12,8 @@
 | Display boards  | 10.55.0.0/24 | 2001:470:f3fc:55::/64 | vlan=55 | For the PI connected to the display boards | 10.55.0.20 - 10.55.0.250 |
 | Speakers  | 10.65.0.0/24 | 2001:470:f3fc:65::/64 | vlan=65 |  | 10.65.0.20 - 10.65.0.250 |
 | Vendors booth  | 10.xx.0.0/24 | 2001:470:f3fc:100-199::/64 | vlan=100-199 | The x in the IP will match the vlan ID | 10.x.0.20 - 10.x.0.250 |
-| HAM  | 10.80.0.0/24 | 2001:470:f3fc:80::/64 | vlan=80 |  | 110.80.0.20 - 10.80.0.250 |
+| HAM  | 10.80.0.0/24 | 2001:470:f3fc:80::/64 | vlan=80 |  | 10.80.0.20 - 10.80.0.250 |
+| HAM  | NOip | NOip | vlan=99 |  | NOip|
 
 All vlans= untag 50, tag 40,41,42,43,55,60,61,65,70,80,100-199
 Vlans only for APs=untag 50, tag 60,40,41,42,43
@@ -23,39 +24,5 @@ Vlans only for APs=untag 50, tag 60,40,41,42,43
 - syslog/graylog=10.1.0.4
 - ntp/sntp=10.1.0.5
 
-#Switches
 
-##Reg desk2 3com ancient##
-- Port 1-22 reg desk computers untag vlan 61
-- Port 25 uplink to expoA master sw All vlans
 
-##Expo14##
-- Port 1 Uplink to expo15 All vlans
-- Port 2 Exhibithall AP13 Vlans only for APs
-- Port 4-15 vendors booths untag vlan xx
-- Port 16 downlink to expo13 All vlans
-
-##Expo15 3com ancient##
-- Port 1 Uplink to ExhibithallB masterswAll vlans
-- Port 4-15 vendors booths untag vlan xx
-- Port 16 downlink to expo14 All vlans
-
-##Expo16 3com ancient##
-- Port 1 Uplink to expo17 All vlans
-- Port 2 Exhibithall AP7 Vlans only for APs
-- Port 4-16 vendors booths untag 80
-
-##Expo17 3com ancient##
-- Port 1 Uplink to expo18 All vlans
-- Port 4-15 vendors booths untag vlan xx
-- Port 16 downlink to expo16 All vlans
-
-##Expo18 3com ancient##
-- Port 1 Uplink to ExhibithallB masterswAll vlans
-- Port 2 Exhibithall AP5 Vlans only for APs
-- Port 4-15 vendors booths untag vlan xx
-- Port 16 downlink to expo17 All vlans
-
-Total=87
-Ballroom/expo=8+8+7+27=50
-Conf area=27+10=37
