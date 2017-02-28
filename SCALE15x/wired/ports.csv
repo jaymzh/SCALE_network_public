@@ -95,7 +95,7 @@ ExpoMDF,13,downlink_to_Ballroom_G_sw,all,1
 ExpoMDF,14,downlink_to_Ballroom_H_sw,all,1
 ExpoMDF,15,downlink_to_Ballroom_I_sw,all,1
 ExpoMDF,16,downlink_to_reg_desk,all,1
-ExpoMDF,23,uplink_to_Conference_MDF,all,1
+ExpoMDF,25,uplink_to_Conference_MDF,all,1
 ExpoMDF,17,uplink_to_firewall_vlan1,,1
 ExpoMDF,18,uplink_to_firewall_public_vlans,"40,41,42,43",1
 ExpoMDF,19,uplink_to_firewall_other_vlans,"55,60,61,65,70,80,99,100-207",1
