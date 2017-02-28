@@ -114,7 +114,7 @@ Conference_MDF,21,downlink_Room_215_sw,all,1
 Conference_MDF,22,not-used,,1
 Conference_MDF,13,downlink_Room_212_sw,all,1
 Conference_MDF,19,not-used,,1
-Conference_MDF,49,uplink_to_Ballroom_MDF,,
+Conference_MDF,49,uplink_to_expo_MDF,all,1
 Room101-102,1,room_101_AP,"40,41,42,43,60",1
 Room101-102,2,room_101_AP,"40,41,42,43,60",1
 Room101-102,3,room_102_AP,"40,41,42,43,60",1
