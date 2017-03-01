@@ -2,7 +2,7 @@
 1. Set laptop with a static IP of 192.168.1.2/24
 2. Start up a continuous ping to 192.168.1.1
 3. With the power off press and hold the reset button on the underside of router
-4. Keep hold reset button until pings look something like the below(this is on ubuntu 16.04 other OS may look alittle diffrent)
+4. Keep hold reset button until pings look something like the below(this is on ubuntu 16.04 other OS may look a little diffrent)
 Warning: time of day goes back (-3646444085811578108us), taking countermeasures.
 40 bytes from 192.168.1.1: icmp_seq=105 ttl=64
 5. Release the reset button after you see the above pings
