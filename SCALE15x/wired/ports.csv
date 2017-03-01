@@ -496,3 +496,14 @@ Expo13,14,vendor_xxxx,,xxx
 Expo13,15,vendor_xxxx,,xxx
 Expo13,16,vendor_xxxx,,xxx
 Expo13,24,Uplink_to_xxx,all,1
+BallroomG-idf,24,uplink_to_expo_MDF,all,1
+BallroomG-idf,1,downlink_ballroomH,all,1
+BallroomG-idf,2,downlink_ballroomg,all,1
+BallroomG-idf,3,downlink_ballroomF,all,1
+BallroomC-idf,48,uplink_to_expo_MDF,all,1
+BallroomC-idf,1,downlink_ballroomH,all,1
+BallroomC-idf,2,downlink_ballroomg,all,1
+BallroomC-idf,3,downlink_ballroomF,all,1
+ExpoIDF,49,uplink_to_expo_MDF,all,1
+ExpoIDF,1,downlink_Expo-catwalk,all,1
+Expo-catwalk,48,,,
